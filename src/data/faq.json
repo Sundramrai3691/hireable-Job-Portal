@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "How do I apply for a job?",
+    "answer": "Click on any job card and hit 'Apply Now' to start the process. You'll be able to submit your application directly through our platform."
+  },
+  {
+    "id": 2,
+    "question": "Is it free to post a job?",
+    "answer": "Yes! Posting jobs on Hireable is completely free. We believe in connecting great talent with amazing opportunities without barriers."
+  },
+  {
+    "id": 3,
+    "question": "How do I search for specific jobs?",
+    "answer": "Use our powerful search bar to find jobs by title, company, or keywords. You can also filter by location, job type, and experience level."
+  },
+  {
+    "id": 4,
+    "question": "Can I edit my job posting after submission?",
+    "answer": "Currently, job editing is not available in this demo version. In a full implementation, you would be able to manage and edit your postings."
+  },
+  {
+    "id": 5,
+    "question": "How recent are the job listings?",
+    "answer": "Our job listings are updated regularly. You can see how long ago each job was posted on the individual job cards."
+  },
+  {
+    "id": 6,
+    "question": "Do you support remote work opportunities?",
+    "answer": "Absolutely! We have a dedicated filter for remote positions. Many of our listed companies offer flexible remote work arrangements."
+  }
+]
